@@ -1,10 +1,18 @@
 # JG Systems Consulting
 
+![MBSE consulting](https://img.shields.io/badge/MBSE-consulting-0a0a0b) ![SysML v1 and v2](https://img.shields.io/badge/SysML-v1%20%7C%20v2-0a0a0b) ![ArchiMate in Archi](https://img.shields.io/badge/ArchiMate-Archi-0a0a0b) ![MCP bridges](https://img.shields.io/badge/MCP-bridges-0a0a0b)
+
+![Model graph motif: pale nodes joined by thin edges on a dark ink background](assets/banner.jpg)
+
 We put AI agents on live SysML, ArchiMate, and Enterprise Architect models, and we curate the MBSE lists practitioners actually use.
 
 Consulting, open bridges and skills, and the awesome-mbse list family. Pick a path below.
 
+By the numbers: 10 curated MBSE lists, 63 licence-vetted knowledge packs, 130+ SysML v1 bridge tools, 35 SysML v2 API tools, and 18 free SysML v1 analysis skills.
+
 Start here: [awesome-mbse](https://github.com/jgsystemsconsulting/awesome-mbse) for the field, [jgs-magic-sysmlv1-mcp](https://github.com/jgsystemsconsulting/jgs-magic-sysmlv1-mcp) to put an agent on a live model, or [www.jgsystemsconsulting.com](https://www.jgsystemsconsulting.com) to work with us.
+
+Contact: [www.jgsystemsconsulting.com](https://www.jgsystemsconsulting.com), [support@jgsystemsconsulting.com](mailto:support@jgsystemsconsulting.com), or [LinkedIn](https://www.linkedin.com/company/jg-systems-consulting-ltd).
 
 Curated index of the firm's public GitHub work. Not an awesome list.
 
@@ -22,7 +30,7 @@ Curated index of the firm's public GitHub work. Not an awesome list.
 
 Live-model access for agents inside the tools you already run.
 
-- [jgs-magic-sysmlv1-mcp](https://github.com/jgsystemsconsulting/jgs-magic-sysmlv1-mcp) - Air-gapped bridge so Claude Code and other agents read and drive live SysML v1 models in CATIA Magic without cloud export. Free, Pro, and Enterprise tiers.
+- [jgs-magic-sysmlv1-mcp](https://github.com/jgsystemsconsulting/jgs-magic-sysmlv1-mcp) - Air-gapped bridge so Claude Code and other agents read and drive live SysML v1 models in CATIA Magic through 130+ tools, without cloud export. Free, Pro, and Enterprise tiers.
 - [jgs-archi-mcp](https://github.com/jgsystemsconsulting/jgs-archi-mcp) - Eclipse plugin that exposes ArchiMate models in Archi over MCP so agents can query, analyse, and edit EA models in natural language.
 - [jgs-sysmlv2-api-mcp](https://github.com/jgsystemsconsulting/jgs-sysmlv2-api-mcp) - MCP server for the OMG SysML v2 REST API: 35 tools for navigate, version, and author flows with staged, token-confirmed commits.
 
@@ -44,6 +52,7 @@ Skills that drive the bridges or stand alone in your coding agent.
 - Site: [www.jgsystemsconsulting.com](https://www.jgsystemsconsulting.com)
 - Labs: [labs.jgsystemsconsulting.com](https://labs.jgsystemsconsulting.com)
 - Engagements: MBSE methods, toolchains, and AI-in-the-loop engineering workflows. Enquire via the site.
+- Academia: SOAM research projects for undergraduate and master's students, [free for academia](https://labs.jgsystemsconsulting.com/academic.html).
 - [jgsystemsconsulting-website](https://github.com/jgsystemsconsulting/jgsystemsconsulting-website) - Open-source Labs site: AI tooling for systems engineering, MCP bridges, and skills for SysML and Sparx EA.
 
 ## Knowledge packs
